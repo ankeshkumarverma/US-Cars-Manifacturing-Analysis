@@ -30,3 +30,9 @@ And we have to answer some questions on the basis of analysisQuestions to Analys
 # Files
  US_Cars_Analysis.ipynb
  USA_cars_datasets.csv
+
+# Who am I?
+My name is Ankesh Kumar Verma and I'm in final year of my Engineering in Computer Science & Engineering. Now I'm an Intern at Elite Techno Group, and on other side, I am Information Architect & Front-End Developer .And At presnt I'm also working Web Devloper at REC Sonbhadra. I have expertise in Knowlede of Data Structure & Algorithms , OS ,DBMS ,C, Web Technologies, Git&GitHub, Also I have worked on NodeJS , ReactJS, XAMPP.
+
+# Important Links
+LinkedIn - https://www.linkedin.com/in/ankesh-kumar-verma-919472209
